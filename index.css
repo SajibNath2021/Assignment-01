@@ -75,3 +75,28 @@ span{
     padding-top: 130px;
     padding-bottom: 25px;
 }
+.contact{
+    margin-top: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+    background:  linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);;
+    border-radius: 30px;
+    height: 225px;
+    margin: 130px 340px;
+    width: 906px;
+    left: 267px;
+    top: 2116px;
+
+}
+.INQUIRY-design{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%
+}
+#unique{
+    font-size: 64px;
+    color: #fff;
+    margin-top: -40px;
+    
+}
