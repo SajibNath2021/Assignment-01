@@ -3,6 +3,25 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0px;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+li a{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 15px;
+  margin-right: 35px;
+  text-decoration: none;
+  font-size: 18px;
+}
 h1{
     font-size: 80px;
 
