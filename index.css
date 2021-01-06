@@ -34,7 +34,7 @@ h1{
 
 }
 .intro-section{
-    background-color:#84A2D4;
+    background-color:#798294;
     background-size: 100%;
     height: 760px;
 }
@@ -42,7 +42,7 @@ h2{
     font-size: 48px;
 }
 .bio-section{
-    background-color:hsla(218, 52%, 59%, 0.842);
+    background-color:#8b92a3;
     background-size: 100%;
     height: 730px;
 }
@@ -122,7 +122,7 @@ h4{
     margin-top: -10px;
 }
 .client-section{
-    background-color: turquoise;
+    background-color: #8b92a3;
     height: 1000px;
 }
 .all-thing{
@@ -135,7 +135,7 @@ h4{
 }
 .stay-connected {
     text-align: center;
-    background-color: black;
+    background-color: #2e3136;
     color: white;
     padding: 20px 0px;
 }
