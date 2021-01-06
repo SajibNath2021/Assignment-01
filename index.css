@@ -42,7 +42,7 @@ p{
     color: white;
 }
 .intro-bio-p-tag{
-    margin-bottom: 15%;
+    margin-bottom: 10%;
 }
 
 .half-width{
@@ -59,7 +59,7 @@ p{
 .intro-section{
     background-color:#80899c;
     background-size: 100%;
-    height: 800px;
+    height: 680px;
 }
 h2{
     font-size: 48px;
@@ -67,7 +67,7 @@ h2{
 .bio-section{
     background-color:#8b92a3;
     background-size: 100%;
-    height: 750px;
+    height: 700px;
 }
 span{
     color: #F57474;
