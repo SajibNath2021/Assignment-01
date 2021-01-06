@@ -70,6 +70,7 @@ span{
     background-color:#F8F9FC;
     background-size: 100%;
     height: 820px;
+    margin-top: -40px;
 }
 .h2-margin{
     text-align: center;
@@ -83,7 +84,7 @@ span{
     background:  linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);;
     border-radius: 30px;
     height: 225px;
-    margin: 130px 320px;
+    margin: 100px 320px;
     width: 906px;
     left: 267px;
     top: 2116px;
@@ -122,13 +123,32 @@ h4{
     margin-top: -10px;
 }
 .client-section{
-    background-color: #8b92a3;
+    background-color: rgb(177, 19, 19);
     height: 1000px;
 }
 .all-thing{
     padding-top: 100px;
 }
-
+img.group-img-margin {
+    margin-left: -637px;
+    margin-top: -257px;
+    width: 55%;
+    padding: 80px;
+}
+img.group-img2-margin {
+    width: 14%;
+    padding: 160px;
+    padding-bottom: 333px;
+    margin-top: -310px;
+    padding-left: 130px;
+}
+img.group-img3-margin {
+    margin-top: -1500px;
+    padding: 554px;
+    padding-left: 645px;
+    width: 14%;
+    padding-bottom: 582px;
+}
 .social-icon {
     width: 40px;
     margin: 0px 10px;
