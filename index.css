@@ -89,14 +89,21 @@ span{
 
 }
 .INQUIRY-design{
-    width: 40%;
+    width: 50%;
     float: left;
-    margin-left: 5%;
-    margin-right: 2%
+    margin-left: 95px;
+    margin-top: 60px;
 }
 #unique{
     font-size: 64px;
     color: #fff;
-    margin-top: -40px;
+    margin-top: 30px;
+    margin-left: -95px;
     
 }
+#unoque-button{
+    margin-left: 230px;
+    padding: 20px 35px;
+    
+}
+
