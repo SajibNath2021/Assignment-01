@@ -9,6 +9,7 @@ ul {
     margin: 0;
     padding-right: 80px;
     overflow: hidden;
+    margin-bottom: 30px;
   }
   
   li {
@@ -50,7 +51,7 @@ p{
        width: 30%;
        margin-left: 10%;
        margin-right: 3%;
-       margin-top: 5%;
+       
 }
 .half-width img {
     width: 100%;
@@ -59,15 +60,15 @@ p{
 .intro-section{
     background-color:#80899c;
     background-size: 100%;
-    height: 560px;
+    height: 500px;
 }
 h2{
     font-size: 48px;
 }
 .bio-section{
-    background-color:#8b92a3;
+    background-color:#80899c;
     background-size: 100%;
-    height: 560px;
+    height: 470px;
 }
 span{
     color: #F57474;
@@ -107,7 +108,7 @@ span{
     background:  linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);;
     border-radius: 30px;
     height: 225px;
-    margin: 100px 170px;
+    margin: 100px 155px;
     width: 906px;
     left: 267px;
     top: 2116px;
@@ -134,7 +135,8 @@ span{
 
 .client-says{
     text-align: center;
-    margin-top: -40px;
+    margin-top: -65px;
+    margin-bottom: -70px;
 }
 .client-img{
     width: 5%;
@@ -147,7 +149,7 @@ h4{
 }
 .client-section{
     background-color: #FFFFFF;
-    height: 1000px;
+    height: 950px;
 }
 .all-thing{
     padding-top: 100px;
@@ -182,4 +184,6 @@ img.group-img3-margin {
     color: rgba(42, 36, 58, 0.986);
     padding: 20px 0px;
 }
-
+footer{
+    margin-top: -100px;
+}
