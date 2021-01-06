@@ -82,7 +82,7 @@ span{
     background:  linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);;
     border-radius: 30px;
     height: 225px;
-    margin: 130px 340px;
+    margin: 130px 320px;
     width: 906px;
     left: 267px;
     top: 2116px;
@@ -101,9 +101,30 @@ span{
     margin-left: -95px;
     
 }
-#unoque-button{
+#unique-button{
     margin-left: 230px;
     padding: 20px 35px;
     
+}
+
+.client-says{
+    text-align: center;
+    margin-top: -40px;
+}
+.client-img{
+    width: 5%;
+ }
+h4{
+    color: #838383;
+    font-size: 13px;
+    margin-bottom: 50px;
+    margin-top: -10px;
+}
+.contact-section{
+    background-color: turquoise;
+    height: 1000px;
+}
+.all-thing{
+    padding-top: 100px;
 }
 
